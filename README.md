@@ -4,7 +4,9 @@ Hi 👋 My name is Ionut Iosipescu
 IT School Student | Seeking Full-Time Job | HTML/CSS & JavaScript | Junior Front-End Web Developer |
 ----------------------------------------------------------------------------------------------------
 
-I consider myself a very good team player with a positive attitude, supreme communication skills, and good time and task management, and believe that all of the above embodies the foundation of my character. 🛕 My ability to work hard and be consistently reinforced by my willingness to expand my existing knowledge, for that reason I attend many courses both with trainers and online to grow a portfolio that emphasizes my skills. ✨ With my knowledge as a web developer, design experience, and a great sense of detail, I will create amazing responsive websites. 🚀
+I consider myself a very good team player with a positive attitude, supreme communication skills, and good time and task management, and believe that all of the above embodies the foundation of my character.🛕
+My ability to work hard and be consistently reinforced by my willingness to expand my existing knowledge, for that reason I attend many courses both with trainers and online to grow a portfolio that emphasizes my skills. ✨
+With my knowledge as a web developer, design experience, and a great sense of detail, I will create amazing responsive websites. 🚀
 
 * 🌍  I'm based in Romania - Bucharest
 * ✉️  You can contact me at [ionutiosipescu@yahoo.com](mailto:ionutiosipescu@yahoo.com)
