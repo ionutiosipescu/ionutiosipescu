@@ -1,4 +1,4 @@
-Hi 👋 My name is Ionut Iosipesc
+Hi 👋 My name is Ionut Iosipescu
 ===============================
 
 IT School Student | Seeking Full-Time Job | HTML/CSS & JavaScript | Junior Front-End Web Developer |
